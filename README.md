@@ -1,1 +1,4 @@
-# Github-4A-PAW1
+# Welcome
+
+Nama: Ahmad Adnhika Pratama
+NPM: 2226240004
